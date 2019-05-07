@@ -13,3 +13,8 @@
 [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
 
 
+## Integrantes
+
+* Luis Murillo Vizcardo
+* Enrique Gutierrez Salazar
+
