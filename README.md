@@ -8,7 +8,8 @@
    1. La distancia de Manhattan con un coeficiente R = 1.0
    2. La distancia Euclidiana con un coeficiente R = 2.0
    
-## Data set
+## Dataset
 
 [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
+
 
